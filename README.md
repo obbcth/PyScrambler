@@ -8,6 +8,8 @@ PyScrambler는 영어 문장의 각 단어를 랜덤으로 섞어 맞추는 프�
 
 [Version 0.1 (C# WPF) Build 0001](https://github.com/obbcth/PyScrambler/releases)
 
+[예시 본문파일 (롱맨 6-2, 5-3 일부).txt](https://github.com/obbcth/PyScrambler/blob/master/%EC%98%88%EC%8B%9C%20%EB%B3%B8%EB%AC%B8%ED%8C%8C%EC%9D%BC%20(%EB%A1%B1%EB%A7%A8%206-2%2C%205-3%20%EC%9D%BC%EB%B6%80).txt)
+
 ## 1. 사용법
 
 본문을 아래의 **3. 본문 파일 만들기** 파트를 참고하여 제작합니다.
