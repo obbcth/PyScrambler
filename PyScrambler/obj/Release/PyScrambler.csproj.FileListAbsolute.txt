@@ -1,0 +1,17 @@
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\bin\Release\PyScrambler.exe.config
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\bin\Release\PyScrambler.exe
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\bin\Release\PyScrambler.pdb
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\obj\Release\Learn.g.cs
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\obj\Release\MainWindow.g.cs
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\obj\Release\App.g.cs
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\obj\Release\PyScrambler_MarkupCompile.cache
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\obj\Release\PyScrambler_MarkupCompile.lref
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\obj\Release\Learn.baml
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\obj\Release\MainWindow.baml
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\obj\Release\PyScrambler.g.resources
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\obj\Release\PyScrambler.Properties.Resources.resources
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\obj\Release\PyScrambler.csproj.GenerateResource.cache
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\obj\Release\PyScrambler.csproj.CoreCompileInputs.cache
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\obj\Release\PyScrambler.exe
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\obj\Release\PyScrambler.pdb
+C:\Users\Taehee\source\repos\PyScrambler\PyScrambler\obj\Release\PyScrambler.csprojAssemblyReference.cache
